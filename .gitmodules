@@ -1,0 +1,6 @@
+[submodule "percona-xtradb-cluster-tutorial"]
+	path = percona-xtradb-cluster-tutorial
+	url = https://github.com/jayjanssen/percona-xtradb-cluster-tutorial.git
+[submodule "jay-pxc"]
+	path = jay-pxc
+	url = https://github.com/jayjanssen/percona-xtradb-cluster-tutorial.git
